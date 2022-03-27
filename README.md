@@ -1,2 +1,2 @@
 # practice-recipes
-Practice recipe website
+Recipe website done for practice, following the tutorials at https://www.theodinproject.com/
